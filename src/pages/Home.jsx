@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react'
 import Spinners from "../components/Spinners"
 import axios from 'axios'
 import {Link} from 'react-router-dom'
-import {MdOutlineAddBox, MdOutlineDelete} from 'react-icons/md'
+import {MdOutlineAddBox} from 'react-icons/md'
 import BooksCard from '../components/home/BooksCard'
 import BooksTable from '../components/home/BooksTable'
 
